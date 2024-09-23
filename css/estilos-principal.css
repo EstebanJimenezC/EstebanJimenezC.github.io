@@ -1,0 +1,53 @@
+/*CSS externo*/
+table th{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+tbody td{
+    text-align: center;
+    letter-spacing: 1px;
+}
+thead{
+    background-color: #000;
+    color: #fff;
+}
+table tbody tr:nth-child(even){ /*even odd*/
+    background-color: #c6c6c6;
+}
+#cita{
+    color:aqua;
+    background-color: rgb(0, 0, 0,0.6);
+}
+
+.titulo p{
+    color:aqua
+}
+
+body {
+    background-image: url("../Images/Background2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+  b {
+    text-align: center;
+    letter-spacing: 1px;
+    color: black;
+  }
+
+  footer{
+    font-style: italic;
+    font-size: x-large;
+  }
+
+  h3{
+    text-align: center;
+  }
+
+  h4{
+    text-align: right;
+  }
+
+
+  
